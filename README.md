@@ -21,7 +21,7 @@ Passionate about UI/UX design ✨
 Daily verse and Bible reader app written in React Native.  
 Available on Android (iOS version ready to ship).
 
-![App screenshot](./assets/screenshots_mobile.png)
+![App screenshot](./assets/screenshots_mobile_centered.webp)
 <p align="center">
   <a href="https://drive.usercontent.google.com/download?id=1O9nYgAAr357lpOA8yhUqS8BdKTNWP5Yj&export=download&authuser=0&confirm=t&uuid=6d272573-043d-4b7b-8583-a33e7894176b&at=ALoNOgk-OSDAb8q4sbcp2wg_ctjd%3A1748462027696">
     <img src="./assets/Download_Badge.svg" height="60" />
@@ -41,7 +41,7 @@ Available on Android (iOS version ready to ship).
 
 ### Also available on web:
 
-![Web screenshot](./assets/screenshot_web.png)
+![Web screenshot](./assets/screenshot_web.webp)
  
 [![Visit napiige.eu](https://img.shields.io/badge/Visit-napiige.eu-0a7ea4?style=for-the-badge&logo=globe&logoColor=white)](https://napiige.eu)
 
