@@ -23,15 +23,13 @@ Available on Android (iOS version ready to ship).
 
 ![App screenshot](./assets/screenshots_mobile_centered.webp)
 <p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.carpetglue.dailyverse">
+    <img src="./assets/google-play-badge.svg" height="60" style="margin-right: 15px;" />
+  </a>
   <a href="https://drive.usercontent.google.com/download?id=1O9nYgAAr357lpOA8yhUqS8BdKTNWP5Yj&export=download&authuser=0&confirm=t&uuid=6d272573-043d-4b7b-8583-a33e7894176b&at=ALoNOgk-OSDAb8q4sbcp2wg_ctjd%3A1748462027696">
     <img src="./assets/Download_Badge.svg" height="60" />
   </a>
-
-
-  <!--<a href="https://play.google.com/store/apps/details?id=eu.napiige.dailyverse">
-    <img src="./assets/google-play-badge.svg" height="60" style="margin-right: 15px;" />
-  </a>-->
-  <!--<a href="https://play.google.com/store/apps/details?id=eu.napiige.dailyverse">
+  <!--<a href="https://play.google.com/store/apps/details?id=com.carpetglue.dailyverse">
     <img src="./assets/App_Store_Badge.svg" height="60" />
   </a>-->
 </p>
